@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: shweata_banner_right_size.png
+  image_fullwidth: header_shweata.png
 widget1:
   title: "My Blog"
   url: 'https://shweatanhegde.github.io/mycosycorner/blog/'
