@@ -8,8 +8,14 @@ categories:
     - writings
 ---
 <!--more-->
+<style>
+div {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
 
 <div class="row t60">
+
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
@@ -35,9 +41,3 @@ categories:
 
 
 </div><!-- /.row -->
-
-
-div {
-  background-color: green;
-  opacity: 0.3;
-}
