@@ -11,12 +11,6 @@ categories:
 
 
 <div class="row t60">
-    <style>
-    div {background-color: powderblue;}
-    h1   {color: blue;}
-    p    {color: red;}
-    </style>
-
 
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
@@ -30,7 +24,7 @@ categories:
 
         <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_phlow.jpg" alt="">
-        <p>Website: <a href="https://phlow.de/">Something else</a></p>
+        <h2>Website: <a href="https://phlow.de/">Something else</a></h2>
         <p>Date: 2021-10-02 </p>
         <p>Published in: So and so </p>
     </div><!-- /.medium-6.columns -->
