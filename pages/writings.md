@@ -10,7 +10,7 @@ categories:
 <!--more-->
 
 <div class="row t60">
-## Does MarkDown work here?
+
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
         <p>Website: <a href="http://jcorneille.de">Grafik Design Jeannette Corneille</a></p>
@@ -37,4 +37,7 @@ categories:
 </div><!-- /.row -->
 
 
-
+div {
+  background-color: green;
+  opacity: 0.3;
+}
