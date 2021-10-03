@@ -8,13 +8,14 @@ categories:
     - writings
 ---
 <!--more-->
-<style>
-div {background-color: powderblue;}
-h1   {color: blue;}
-p    {color: red;}
-</style>
+
 
 <div class="row t60">
+    <style>
+    div {background-color: powderblue;}
+    h1   {color: blue;}
+    p    {color: red;}
+    </style>
 
 
     <div class="medium-6 columns b30">
