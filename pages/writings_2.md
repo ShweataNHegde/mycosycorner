@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-permalink: /writings_2/
+permalink: "/writings_2/"
 header:
   image_fullwidth: header_just_elements.png
 widget1:
