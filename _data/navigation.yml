@@ -10,6 +10,10 @@
   url: "/writings/"
   side: left
 
+- title: "Writings-2"
+  url: "/writings_2/"
+  side: left
+
 - title: "Podcasts"
   url: "/podcasts/"
   side: left
